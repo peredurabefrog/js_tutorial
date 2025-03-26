@@ -1,0 +1,25 @@
+{
+  "name": "peredur-palindrome",
+  "version": "0.1.0",
+  "description": "Palindrome detector",
+  "keywords": [
+    "palindrome",
+    "learn-enough",
+    "javascript"
+  ],
+  "homepage": "https://github.com/peredurabefrog/palindrome#readme",
+  "bugs": {
+    "url": "https://github.com/peredurabefrog/palindrome/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peredurabefrog/palindrome.git"
+  },
+  "license": "ISC",
+  "author": "Peredur ab Efrog",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  }
+}
